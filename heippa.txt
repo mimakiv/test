@@ -1,1 +1,2 @@
 tekstiä testitiedostoon.
+Uusi rivi, tämä on lisätty selaimen näkymässä.
